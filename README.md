@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**kavya-sri2004/kavya-sri2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kavyasri Maradana
 
-Here are some ideas to get you started:
+Data Science Student | Aspiring AI Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am interested in building practical solutions using
+Machine Learning, Generative AI, and AI Engineering.
+
+## Technical Interests
+- Machine Learning
+- Generative AI and Large Language Models
+- AI Engineering
+- Data Science and Analytics
+
+## Technologies
+- **Languages:** Python
+- **Data Science:** Pandas, NumPy
+- **Visualization:** Tableau
+- **AI:** LangChain, LLMs, Embeddings
+- **Databases:** SQL, 
+
+## Current Focus
+Learning AI Engineering through hands-on projects
+and continuously improving my programming skills.
